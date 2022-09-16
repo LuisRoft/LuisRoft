@@ -1,5 +1,5 @@
 <h1>Hi, I'm Luis! 🖐️</h1>
-<p>🎓 I.T Engineer in progress 2/9</p>
+<p>🎓 Software Engineering student 2/8</p>
 <p>🖥️ Passionate about web technologies</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
