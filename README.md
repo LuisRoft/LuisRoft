@@ -17,7 +17,7 @@ const luis = {
          nodejs: "learning",
       },
    },
-   currentOccupation: ["I.T Engineering student", "Learning Web Development"],
+   currentOccupation: ["Software Engineering student", "Learning Web Development"],
    challenge: "I'm working on the Platzi Challenge: Creating a portfolio focused on react",
 };
 ```
