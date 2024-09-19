@@ -1,37 +1,65 @@
-<h1>Hi, I'm Luis! 🖐️</h1>
-<p>🎓 Software Engineering student 2/8</p>
-<p>🖥️ Passionate about web technologies</p>
+# Hi, I'm Luis! 👋
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+I'm a dedicated Software Engineer Full Stack specializing in web development and modern software architectures. I'm passionate about staying up-to-date with emerging technologies and have developed extensive expertise in both frontend and backend development. My experience spans from React and Next.js on the frontend to Node.js and NestJS on the backend, with a strong understanding of microservices architecture and SaaS development.
+
+I love sharing knowledge within the community and am committed to enhancing user experience, optimizing application performance, and designing scalable software solutions. My goal is to create efficient, maintainable, and user-friendly applications that solve real-world problems.
+
+🎓 Software Engineering student at Pontificia Universidad Catolica del Ecuador  
+🚀 Currently working on exciting projects and expanding my skill set  
+🌐 Experienced in modern web frameworks and software architectures
+
+## 🛠️ Technologies & Skills
+
 ```javascript
 const luis = {
-   code: [Javascript, HTML, CSS],
+   code: ["JavaScript", "TypeScript", "HTML", "CSS"],
    technologies: {
       frontEnd: {
-         js: {
-            react: "learning",
-         },
-         css: ["TailwindCSS", "SASS"]
+         js: ["React", "Next.js"],
+         css: ["TailwindCSS"]
       },
       backEnd: {
-         nodejs: "learning",
+         js: ["Node.js", "NestJS"],
       },
    },
-   currentOccupation: ["Software Engineering student", "Learning Web Development"],
-   challenge: "I'm working on the Platzi Challenge: Creating a portfolio focused on react",
+   architecture: ["Microservices", "SaaS"],
+   otherSkills: [
+      "Web Performance Optimization",
+      "Code Structure and Architecture",
+      "Project Management",
+   ],
+   currentOccupations: [
+      "Software Engineer Full Stack",
+   ],
 };
 ```
 
-<h2>🤝 <b>Feel free to connect with me:</b></h2>
-<a href="mailto:luisvelasco6541@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-luisvelasco6541@gmail.com-blue?style=flat&logo=gmail"></a>
-<p> 
-  
-  <a href="https://www.linkedin.com/in/luisvelasco27/" >
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Luis Velasco's LinkedIn Profile" height="20" width="20">
-  </a>
-  
-  <a href="https://twitter.com/LuisRoftl">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Luis Velasco's Twitter Profile" height="20" width="20">
-  </a>
-</p>
-<p><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :D</em></p>
+## 💼 Work Experience
+
+- **Frontend Developer** at ManaClouds (2024)
+  - Contributed to developing a food reservation platform
+  - Implemented CRUD operations for managing periods, meals, and schedules
+  - Maintainable code
+
+- **Full Stack Engineer** at Genesis (Intern - 2024)
+   - I developed an application that uses the OpenAI API for proform comparison using image analysis.
+   - I learned about the OpenAI API and its integration into projects with nestjs.
+   - I used Next.js and Nestjs to build the application, collaborating with cross-functional teams. 
+    
+- **Full Stack Engineer** at AfifSystems (Present)
+   - I am developing custom software using technologies such as Nextjs and Nestjs.
+   - Within Nestjs my knowledge has been broadened by different topics of interest such as: microservices, Transaction Management.
+   - I work in large teams with a working methodology (SCRUM).
+   - CI/CID - Pipelines (BitBucket)
+   - Docker - AWS
+
+## 🤝 Let's Connect!
+
+Feel free to reach out to me:
+
+[![Email](https://img.shields.io/badge/Email-luisvelasco6541%40gmail.com-blue?style=flat&logo=gmail)](mailto:luisvelasco6541@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luisvelasco27-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luisvelasco27/)
+[![Twitter](https://img.shields.io/badge/Twitter-LuisRoftl-blue?style=flat&logo=twitter)](https://twitter.com/LuisRoftl)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=flat&logo=netlify)](https://portfolio-luisvelasco.netlify.app)
+
+I love connecting with different people, so if you want to say hi, I'll be happy to meet you! 😄
