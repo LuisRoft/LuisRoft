@@ -1,8 +1,12 @@
-# Hi, I'm Luis! 👋
+<a href="https://luisroft.vercel.app/en" target="_blank">
+  <img alt="Luis Velasco" src="https://github.com/user-attachments/assets/8b07cfe5-3df2-4674-a36c-a93f563bddbd">
+</a>
 
-I'm a dedicated Software Engineer Full Stack specializing in web development and modern software architectures. I'm passionate about staying up-to-date with emerging technologies and have developed extensive expertise in both frontend and backend development. My experience spans from React and Next.js on the frontend to Node.js and NestJS on the backend, with a strong understanding of microservices architecture and SaaS development.
+## About Me:
 
-I love sharing knowledge within the community and am committed to enhancing user experience, optimizing application performance, and designing scalable software solutions. My goal is to create efficient, maintainable, and user-friendly applications that solve real-world problems.
+I am a dedicated Full Stack Software Engineer with a focus on web development and modern software architectures. I have a passion for staying current with emerging technologies and have developed extensive expertise in both frontend and backend development. My experience ranges from working with React and Next.js on the frontend to Node.js and NestJS on the backend, along with a deep understanding of microservices architecture and SaaS development.
+
+I am committed to sharing knowledge within the community and improving user experiences. I focus on optimizing application performance and designing scalable software solutions. My goal is to create efficient, maintainable, and user-friendly applications that address real-world challenges.
 
 🎓 Software Engineering student at Pontificia Universidad Catolica del Ecuador  
 🚀 Currently working on exciting projects and expanding my skill set  
@@ -10,56 +14,22 @@ I love sharing knowledge within the community and am committed to enhancing user
 
 ## 🛠️ Technologies & Skills
 
-```javascript
-const luis = {
-   code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Next.js"],
-         css: ["TailwindCSS"]
-      },
-      backEnd: {
-         js: ["Node.js", "NestJS"],
-      },
-   },
-   architecture: ["Microservices", "SaaS"],
-   otherSkills: [
-      "Web Performance Optimization",
-      "Code Structure and Architecture",
-      "Project Management",
-   ],
-   currentOccupations: [
-      "Software Engineer Full Stack",
-   ],
-};
-```
-
-## 💼 Work Experience
-
-- **Frontend Developer** at ManaClouds (2024)
-  - Contributed to developing a food reservation platform
-  - Implemented CRUD operations for managing periods, meals, and schedules
-  - Maintainable code
-
-- **Full Stack Engineer** at Genesis (Intern - 2024)
-   - I developed an application that uses the OpenAI API for proform comparison using image analysis.
-   - I learned about the OpenAI API and its integration into projects with nestjs.
-   - I used Next.js and Nestjs to build the application, collaborating with cross-functional teams. 
-    
-- **Full Stack Engineer** at AfifSystems (Present)
-   - I am developing custom software using technologies such as Nextjs and Nestjs.
-   - Within Nestjs my knowledge has been broadened by different topics of interest such as: microservices, Transaction Management.
-   - I work in large teams with a working methodology (SCRUM).
-   - CI/CID - Pipelines (BitBucket)
-   - Docker - AWS
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 🤝 Let's Connect!
 
 Feel free to reach out to me:
 
-[![Email](https://img.shields.io/badge/Email-luisvelasco6541%40gmail.com-blue?style=flat&logo=gmail)](mailto:luisvelasco6541@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-luisvelasco27-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luisvelasco27/)
-[![Twitter](https://img.shields.io/badge/Twitter-LuisRoftl-blue?style=flat&logo=twitter)](https://twitter.com/LuisRoftl)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=flat&logo=netlify)](https://portfolio-luisvelasco.netlify.app)
+[![Email](https://img.shields.io/badge/Email-luisvelasco6541%40gmail.com-black?style=flat&logo=gmail)](mailto:luisvelasco6541@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luisvelasco27-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/luisvelasco27/)
+[![Twitter](https://img.shields.io/badge/Twitter-LuisRoftl-black?style=flat&logo=x)](https://twitter.com/LuisRoftl)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-black?style=flat&logo=vercel)](https://luisroftl.verel.app)
 
 I love connecting with different people, so if you want to say hi, I'll be happy to meet you! 😄
